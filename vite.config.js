@@ -7,6 +7,7 @@ const config = {
 };
 
 export default defineConfig({
+	base: "/birthdays",
 	plugins: [sveltekit()],
 	server: config,
 	preview: config
