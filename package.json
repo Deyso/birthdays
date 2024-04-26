@@ -25,6 +25,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"flowbite-svelte": "^0.45.0"
+		"@sveltejs/adapter-static": "^3.0.1"
 	}
 }
