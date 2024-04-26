@@ -11,7 +11,7 @@
 	$: themeClass = $theme
 	let navItems = [
 		{ name: 'Birthdays', href: '/' },
-		{ name: 'Namedays', href: '/birth' }
+		{ name: 'Namedays', href: '/namedays' }
 	]
 </script>
 
